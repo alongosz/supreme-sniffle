@@ -1,0 +1,19 @@
+{
+    "name": "awl/supreme-sniffle",
+    "description": "Mock package to test Packagist integration",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Awl\\SupremeSniffle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Longosz",
+            "email": "alongosz@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
